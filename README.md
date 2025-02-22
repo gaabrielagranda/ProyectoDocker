@@ -49,6 +49,12 @@ ProyectoDocker/
 
 ---
 
+##Screenshots
+
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/d6d43240-9d19-4bf3-a75a-9278a2039e2f" />
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/7abe60ce-929f-4557-95f5-6aa1f3b4282f" />
+
+
 ## Instrucciones para el Despliegue Local
 
 ```bash
