@@ -51,9 +51,9 @@ ProyectoDocker/
 
 ## Instrucciones para el Despliegue Local
 
-1. Clona el Proyecto
-
 ```bash
+
+1. Clona el Proyecto
 git clone https://github.com/gaabrielagranda/ProyectoDocker.git
 cd ProyectoDocker
 
