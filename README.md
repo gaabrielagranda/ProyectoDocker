@@ -51,13 +51,13 @@ ProyectoDocker/
 
 ## Instrucciones para el Despliegue Local
 
-**1\. Clona el Proyecto
+1. Clona el Proyecto
 
 ```bash
 git clone https://github.com/gaabrielagranda/ProyectoDocker.git
 cd ProyectoDocker
 
-**2\. Construye y Levanta los Contenedores**
+2. Construye y Levanta los Contenedores
 
 Construye los contenedores utilizando Docker Compose:
 
@@ -65,7 +65,7 @@ docker-compose up --build -d
 
 Esto construirá las imágenes de los contenedores (frontend y backend) y los iniciará en segundo plano.
 
-**3\. Accede a la Aplicación**
+3. Accede a la Aplicación**
 
 -  **Frontend**: Accede a la aplicación en http://localhost:3000.
 
@@ -73,7 +73,7 @@ Esto construirá las imágenes de los contenedores (frontend y backend) y los in
 
 Si todo está funcionando correctamente, deberías ver el mensaje de éxito tanto en el frontend como en el backend.
 
-**4\. Detén los Contenedores**
+4. Detén los Contenedores**
 
 Para detener los contenedores, usa el siguiente comando:
 
